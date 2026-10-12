@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="TECHFEST orbital mark">
+  <rect width="64" height="64" rx="12" fill="#050507" />
+  <g fill="none" stroke="#2e7bff" stroke-width="2.5">
+    <ellipse cx="32" cy="32" rx="24" ry="10" transform="rotate(-24 32 32)" />
+    <ellipse cx="32" cy="32" rx="24" ry="10" transform="rotate(42 32 32)" opacity="0.6" />
+  </g>
+  <path d="M32 18 L44 27 L39 43 L25 43 L20 27 Z" fill="#c8ccd6" />
+  <path d="M32 18 L44 27 L32 32 Z" fill="#8f97a8" />
+  <path d="M25 43 L32 32 L20 27 Z" fill="#5f6675" />
+</svg>
