@@ -10,7 +10,7 @@ playground lets visitors rotate, re-material and inspect a live 3D object. It is
 interface: the chapters are artistic representations of AI, robotics and space, not simulations
 of real systems.
 
-> **Status: independent concept build.** All event names, dates, venues, formats, tracks and
+> **Status: independent concept build. ** All event names, dates, venues, formats, tracks and
 > channels in this repository are **editable sample content**, labelled as such in the UI itself.
 > Nothing is presented as verified official Techfest information, and no institutional
 > affiliation, statistic or sponsor is claimed. See [Editing the content](#editing-the-content).
